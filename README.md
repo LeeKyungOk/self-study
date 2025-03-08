@@ -15,7 +15,7 @@ This section contains repositories and materials from my self-directed learning 
      - Telco Customer Churn (Classification)
      - Bike Sharing Demand (Time Series Prediction)
      - Credit Card Fraud Detection (Anomaly Detection)
-   - **Repository Link**: [https://github.com/LeeKyungOk/study-data-analysis](https://github.com/LeeKyungOk/data-analysis)
+   - **Repository Link**: [https://github.com/LeeKyungOk/data-analysis](https://github.com/LeeKyungOk/data-analysis)
 
 2. **[Python Coding Test Preparation]**  
    - **Description**: Solving algorithmic problems from platforms like Baekjoon and Programmers to prepare for coding tests.  
@@ -35,7 +35,7 @@ This section contains repositories and materials from my self-directed learning 
      - Statistical Analysis with Pandas and NumPy
    - **Progress**:
      - Chapter-based learning with practical examples.
-   - **Repository Link**: [https://github.com/LeeKyungOk/data-analysis-book-study](https://github.com/LeeKyungOk/data-analysis-bookstudy)
+   - **Repository Link**: [https://github.com/LeeKyungOk/data-analysis-bookstudy](https://github.com/LeeKyungOk/data-analysis-bookstudy)
 
 
 ## How to Use
@@ -66,7 +66,7 @@ For more information or collaboration opportunities, please contact me at [leeky
      - 통신사 고객 이탈 예측 (분류)
      - 시간대별 자전거 대여 수요 예측 (시계열 예측)
      - 신용카드 사기 탐지 (이상치 탐지)
-   - **저장소 주소**: [https://github.com/LeeKyungOk/study-data-analysis](https://github.com/LeeKyungOk/data-analysis)
+   - **저장소 주소**: [https://github.com/LeeKyungOk/data-analysis](https://github.com/LeeKyungOk/data-analysis)
 
 2. **[코딩 테스트 준비]**  
    - **설명**: 백준과 프로그래머스 같은 플랫폼에서 알고리즘 문제를 풀어 코딩 테스트 준비를 합니다.  
@@ -86,7 +86,7 @@ For more information or collaboration opportunities, please contact me at [leeky
      - Pandas와 NumPy를 활용한 통계 분석
    - **진행 상황**:
      - 장별 학습과 실습 예제.
-   - **저장소 주소**: [https://github.com/LeeKyungOk/data-analysis-book-study](https://github.com/LeeKyungOk/data-analysis-bookstudy)
+   - **저장소 주소**: [https://github.com/LeeKyungOk/data-analysis-bookstudy](https://github.com/LeeKyungOk/data-analysis-bookstudy)
 
 
 ## 사용 방법
