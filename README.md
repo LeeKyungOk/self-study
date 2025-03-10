@@ -5,6 +5,12 @@ This section contains repositories and materials from my self-directed learning 
 
 ## Contents
 
+📁 self-study/ <br>
+├──data-analysis # 데이터분석 스터디 <br>
+├──data-analysis-bookstudy # 나혼자공부하는데이터분석 스터디 <br>
+├──python-coding-test # 코딩테스트 준비 스터디 ( 백준, 프로그래머스 ) <br>
+
+
 1. **[Study Data Analysis]**  
    - **Description**: A collaborative study with a professional data scientist to tackle real-world data analysis problems.  
    - **Key Topics**:
